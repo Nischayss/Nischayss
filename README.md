@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI , I AM NISCHAY <br><br>🚀 CS Engineer passionate about building real-world AI/ML and full-stack applications — from idea to deployment.<br>🤖 Specialized in RAG, LLMs, LangChain & intelligent agent architectures.<br>🛠️ Stack: Python · React.js · Docker · AWS · Vector DBs · REST APIs<br>☁️ Certified in AWS, Cloud Computing & Generative AI.<br>💡 I turn complex problems into clean, deployable solutions.<br><br>AND LEARNING CHAMP 
+HI , I AM NISCHAY <br><br>🚀 CS Engineer passionate about building real-world AI/ML and full-stack applications — from idea to deployment.<br>🤖 Specialized in RAG, LLMs, LangChain & intelligent agent architectures.<br>🛠️ Stack: Python · React.js · Docker · AWS · Vector DBs · REST APIs<br>☁️ Certified in AWS, Cloud Computing & Generative AI.<br>💡 I turn complex problems into clean, deployable solutions.<br><br>
 
 
 # 💻 Tech Stack:
